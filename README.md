@@ -31,7 +31,7 @@ This project fetches data from **Google Sheets API** and displays key metrics li
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/sritej07/Attendly.git
-   cd student-attendance-dashboard
+   cd Attendly
    ```
 
 2. **Install Dependencies**
